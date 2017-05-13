@@ -1,12 +1,12 @@
 # _Sarah's First Portfolio Sample_
 
-#### _Portfolio Sample One, {May 13th, 2017}_
+#### _Portfolio Sample One, May 13th, 2017_
 
-#### By _**{Sarah McCarthy}**_
+#### By _**Sarah McCarthy**_
 
 ## Description
 
-_{A page to explore my portfolio. This page will be added to as my skills progress. }_
+_A page to explore my portfolio. This page will be added to as my skills progress._
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{A page to explore my portfolio. This page will be added to as my skills progre
 
 ## Known Bugs
 
-_{No reported issues with current code. Feel free to contribute to the code.}_
+_No reported issues with current code. Feel free to contribute to the code._
 
 ## Support and contact details
 
-_{Please contact me at smcc1229@gmail.com}_
+_Please contact me at smcc1229@gmail.com_
 
 ## Technologies Used
 
-_{HTML, CSS, and Bootstrap.}_
+_HTML, CSS, and Bootstrap._
 
 ### License
 
-*{Sarah McCarthy TM.}*
+*Sarah McCarthy TM.*
 
-Copyright (c) 2017 **_{Sarah McCarthy}_**
+Copyright (c) 2017 **_Sarah McCarthy_**
